@@ -47,7 +47,7 @@ Here are some images of the final working prototype and the PCB design.
 ![Transmitter PCB Design](images/pcb-design-render-tx.png)
 
 **Receiver PCB Design (3D Render):**
-![Receiver PCB Design](images/pcb-design-render-ru.png)
+![Receiver PCB Design](images/pcb-design-render-rx.png)
 
 
 ## Author
