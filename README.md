@@ -1,28 +1,28 @@
 # Wireless Temperature & Humidity Monitoring System
 
-[cite_start]A project that demonstrates a low-cost, wireless environmental monitoring system using ASK modulation. [cite: 54]
+A project that demonstrates a low-cost, wireless environmental monitoring system using ASK modulation. [cite: 54]
 
 ---
 
 ## Overview
 
-[cite_start]This project is a **Wireless Temperature and Humidity Monitoring System** that utilizes the Amplitude Shift Keying (ASK) digital modulation technique and ATmega328P microcontrollers. [cite: 54] [cite_start]The system's transmitter side measures real-time environmental data using a DHT11 sensor and transmits the data wirelessly over a 433MHz RF channel. [cite: 55] [cite_start]The receiver side captures this data and displays it on a 16x2 LCD module interfaced via I2C communication. [cite: 56] [cite_start]This project provides a cost-effective, low-power, and efficient solution for environmental monitoring applications. [cite: 57]
+This project is a **Wireless Temperature and Humidity Monitoring System** that utilizes the Amplitude Shift Keying (ASK) digital modulation technique and ATmega328P microcontrollers. The system's transmitter side measures real-time environmental data using a DHT11 sensor and transmits the data wirelessly over a 433MHz RF channel. The receiver side captures this data and displays it on a 16x2 LCD module interfaced via I2C communication. This project provides a cost-effective, low-power, and efficient solution for environmental monitoring applications. 
 
 ---
 
 ## Features
 
-* [cite_start]**Real-time Monitoring:** The system successfully monitors temperature and humidity in real-time. [cite: 281]
-* [cite_start]**Wireless Communication:** It uses 433MHz RF modules for reliable wireless transmission. [cite: 282]
-* [cite_start]**ASK Modulation:** The project demonstrates the wireless communication of sensor data using ASK modulation. [cite: 279]
-* [cite_start]**Embedded System Integration:** It achieves the integration of an embedded system with sensor interfacing. [cite: 283]
-* [cite_start]**I2C Communication:** The system features an LCD-based data display using I2C communication to save GPIO pins. [cite: 124, 284]
+* **Real-time Monitoring:** The system successfully monitors temperature and humidity in real-time.
+* **Wireless Communication:** It uses 433MHz RF modules for reliable wireless transmission. 
+* **ASK Modulation:** The project demonstrates the wireless communication of sensor data using ASK modulation.
+* **Embedded System Integration:** It achieves the integration of an embedded system with sensor interfacing.
+* **I2C Communication:** The system features an LCD-based data display using I2C communication to save GPIO pins. 
 
 ---
 
 ## Hardware Components
 
-[cite_start]This list is sourced from the project report. [cite: 112]
+This list is sourced from the project report.
 
 | S.No | Component                           | Quantity |
 | :--- | :---------------------------------- | :------- |
@@ -50,4 +50,4 @@ Here are some images of the final working prototype and the PCB design.
 
 ## Author
 
-* [cite_start]**Mahaveer Katighar** [cite: 10, 39]
+**Mahaveer Katighar** 
