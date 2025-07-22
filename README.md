@@ -41,12 +41,14 @@ This list is sourced from the project report.
 Here are some images of the final working prototype and the PCB design.
 
 **Final Assembled Circuit:**
-![Working wireless sensor system](images/WhatsApp%20Image%202025-07-22%20at%2017.52.16_9dddf21d.jpg)
+![Assembled Project Prototype](images/project-prototype.jpg)
 
-**3D PCB Render:**
-![3D render of the custom PCB](images/Screenshot%202025-07-22%20175545.png)
+**Transmitter PCB Design (3D Render):**
+![Transmitter PCB Design](images/pcb-design-render-tx.png)
 
----
+**Receiver PCB Design (3D Render):**
+![Receiver PCB Design](images/pcb-design-render-ru.png)
+
 
 ## Author
 
