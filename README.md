@@ -1,6 +1,6 @@
 # Wireless Temperature & Humidity Monitoring System
 
-A project that demonstrates a low-cost, wireless environmental monitoring system using ASK modulation. [cite: 54]
+A project that demonstrates a low-cost, wireless environmental monitoring system using ASK modulation. 
 
 ---
 
